@@ -1,0 +1,146 @@
+/* Styles for OzyPeace.com
+    Styled by Eunit
+*/
+@media screen and     (min-width: 800px) {
+    body {
+      font-family : 'Indie Flower' , Roboto Condensed, Pacifico , 'Indie Flower' , serif !important;
+      font-size: 18px !important;
+      background-image: none!important;
+      background-repeat: no-repeat;
+      margin:0;
+         }
+         }
+  
+      body {
+      font-family : 'Indie Flower' , 'Roboto Condensed', Pacifico , serif !important;
+      font-size: 15px !important;
+      background-image: url(//eunitwap.wapsite.me/Images/Eunit-designs/peace/bricks-459299__340.jpg) !important;
+      background-repeat: no-repeat !important;
+      padding-top: 20px;
+      margin:0;
+      
+     }
+     @media screen and     (min-width: 800px) {
+     img.mobile-image {
+     display: none;
+     }
+     }
+    p ,a {
+    font-size: 15px !important;
+    font-family: 'Indie Flower'!important;
+    text-decoration: none;
+    }
+    
+    i {
+    color: #dbc2be !important;
+    }
+      
+    
+   .testimonial_sect {
+       padding: 0;
+       margin: 15px 25px 15px 25px;
+       border-radius: 10px;
+       -moz-border-radius: 10px;
+       -webkit-border-radius: 10px;
+       border-top: 8px solid #dbc2be;
+       border-bottom: 8px solid #dbc2be;
+       border-left: 0;
+       border-right: 0;
+       max-width: 75%;
+       /*float: right;*/
+  }
+  
+  .testimonial_text {
+       color: #cccccc;
+       font-weight: 400;
+       font-size: 15px;
+       font-style: italic;
+       font-family: Georgia, Times, serif !important;
+       padding: 8px 15px 8px 15px;
+       text-indent: 40px;
+       
+  }
+  .testimonial_link {
+      color: #999999;
+      font-family: serif !important;
+      text-decoration: none;
+  }
+  
+  
+  
+
+.cb_pin_images{position:relative;display:block;}.cb_pin_link{position:absolute;bottom:0px;right:0px;width:43px;height:21px;background:url(//assets.pinterest.com/images/PinExt.png) no-repeat;}
+
+/*
+================================================
+
+
+
+
+=====================================================
+*/
+
+
+     .peace_facebook, .peace_twitter, .peace_googleplus, .peace_instagram, .peace_youtube, .peace_medium, .peace_phone, .peace_call, .peace_message, .peace_mail, .peace_bloglovin {
+     background-color: inherit !important;
+     display: block !important;
+     height: 24px !important;
+     width: 24px !important;
+     }
+     .peace_facebook {
+     background-image: url("http://eunitwap.wapsite.me/Images/Eunit-designs/peace/facebook-3-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_twitter {
+     background-image: url("http://eunitwap.wapsite.me/Images/Eunit-designs/peace/twitter-3-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_googleplus {
+     background-image: url("http://eunitwap.wapsite.me/Images/Eunit-designs/peace/google-plus-3-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_instagram {
+     background-image: url("eunitwap.wapsite.me/Images/Eunit-designs/peace/instagram-3-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_youtube {
+     background-image: url("") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_snapchat {
+     background-image: url("") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_medium {
+     background-image: url("") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_mail {
+     background-image: url("eunitwap.wapsite.me/Images/Eunit-designs/peace/mail-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_phone {
+     background-image: url("http://eunitwap.wapsite.me/Images/Eunit-designs/peace/phone-7-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_message {
+     background-image: url("") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_bloglovin {
+     background-image: url("") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_pinterest {
+     background-image: url("http://eunitwap.wapsite.me/Images/Eunit-designs/peace/pinterest-3-32.png") !important;
+     background-repeat: no-repeat !important;
+     }
+     .peace_ {
+     background-image: url("") !important;
+     background-repeat: no-repeat !important;
+     }
+     
+     
+     
+     
+     
