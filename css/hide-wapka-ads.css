@@ -1,0 +1,63 @@
+.wapka_ads a{
+color: inherit !important;
+ text-decoration: none !important; 
+ display: none !important; 
+   }
+   .wapka_ads img{
+ padding: 2px; margin: 0px; 
+important; 
+display: none !important; 
+   }
+
+
+.wapka_ads ({
+ padding: 2px; margin: 0px; 
+ display: none !important; 
+   }
+
+
+a[href^="http://movie.vidmate.mobi"] {display:none!important;}
+a[href^="/ads"] {display:none!important;}
+a[href^="http://9apps.com"] {display:none!important;}
+a[href^="http://www.9apps.com/android-games-featured/"] {display:none!important;}
+ a[href="http://www.9apps.com/android-games-featured/"] {display:none!important;}
+img[src*=vidmate],img[src*=pictures]{ display:none; }
+
+a[href*="http://www.ucnews.in"] {
+display:none;
+visibility:hidden;
+}
+a[href*="http://www.9apps.com/android-games-featured"] {
+display: none!important;
+visibility: hidden;
+}
+a[href*="http://movie.vidmate.mobi/index.html"] {
+display: none;
+visibility: hidden !important;
+}
+
+a[href^="http://lau1.click.union.ucweb.com"] {display:none!important;
+}
+a[href="http://lau1.click.union.ucweb.com"] {display:none!important;
+}
+a[href^"http://res.apk.vidmate.net/data/apk/VidMate_wapkad.apk"] {display:none!important;}
+a[href^"http://www.wapka.mobi/pictures/in_banner_320x50_1.png"] {display:none!important;}
+
+a[href^"http://admaster.union.ucweb.com/js/union_html5_sdk.js"] {display: none!important;}
+a[href^"http://www.9apps.com/android-apps-featured/"] {display:none!important;}
+a[href^"http://www.9apps.com/android-apps/UC-Browser-Surf-it-Fast/"]{display:none!important;}
+a[href^"http://www.9apps.com/android-games-1/"] {display:none!important;}
+a[href^"http://www.9apps.com/android-apps/SHAREit-Connect-and-Transfer/"] {display:none!important;}
+a[href^"http://www.9apps.com/android-games/Teen-Patti-Indian-Poker/"] {display:none!important;}
+
+a[href^"http://music.vidmate.mobi/search-Hindi%20Song.html?locale=in"] {display:none!important;}
+a[href^"http://www.music.vidmate.mobi"] {display:none!important;}
+a[href^"http://www.9apps.com/android-apps/SHAREit-Connect-and-Transfer/"] {display:none!important;}
+a[href^="http://9apps.com"] {display:none!important;
+}
+
+
+a[href^="http://www.9apps.com/phone/"] {display:none!important;
+}
+
+)
